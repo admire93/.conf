@@ -1,0 +1,9 @@
+[submodule "bashrc"]
+	path = bashrc
+	url = https://github.com/admire93/bashrc
+[submodule "tmux.conf"]
+	path = tmux.conf
+	url = https://github.com/admire93/tmux.conf
+[submodule "vimrc"]
+	path = vimrc
+	url = https://github.com/admire93/vimrc
